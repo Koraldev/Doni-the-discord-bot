@@ -1,4 +1,3 @@
 # Doni-the-discord-bot
 
-dont use it
-pls
+use it ;d
